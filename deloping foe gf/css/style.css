@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(204, 196, 196);
+    color: red;
+    margin-top: 15%;
+    font-size: large;
+}
+#row1{
+    margin-left: 35%;
+    margin-top: 2%;
+    padding: 8px 30px 8px 30px;
+    border-radius: 10px;
+    outline: none;
+    font-size: large;
+}
+#row1:hover{
+    background-image: linear-gradient(90deg,rgb(243, 52, 52),rgb(236, 61, 90),rgb(248, 195, 97));
+    outline: none;
+}
+#row2{
+    margin-left: 60%;
+    padding: 8px 30px 8px 30px;
+    border-radius: 10px;
+    outline: none;
+    font-size: large;
+    
+}
+#row2:hover{
+    background-image: linear-gradient(90deg,rgb(243, 52, 52),rgb(236, 61, 90),rgb(248, 195, 97));
+}
